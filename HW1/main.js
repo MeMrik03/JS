@@ -24,3 +24,20 @@ console.log(b6)
 console.log(b7)
 console.log(c1)
 console.log(c2)
+let firstName ='Dmytro'
+let middleName ='Serhiyovych'
+let lastName ='Orlenko'
+let person=`${firstName} ${middleName} ${lastName}`
+console.log(person)
+let a= 100
+let b= '100'
+let c= true
+console.log(typeof a)
+console.log(typeof b)
+console.log(typeof c)
+let user=prompt('Write your Username')
+let mid=prompt('Write your Middle name')
+let year=prompt('Write your Years')
+console.log(user)
+console.log(mid)
+console.log(year)
